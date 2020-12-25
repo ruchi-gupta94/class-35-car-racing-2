@@ -1,2 +1,2 @@
-# class-35-car-racing-2
-class 35 car racing 2
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
